@@ -1,6 +1,6 @@
 # TTK4900 – Engineering Cybernetics, Master's Thesis
 
-###### Glen Hjelmerud Mørkbak Sørensen | MTTK 5 year integrated M.Sc. programme | Class of 2021
+###### Glen Hjelmerud Mørkbak Sørensen | MTTK 5 year integrated MSc programme | Class of 2021
 
 This repository contains software components from my master's thesis project which utilise – without modifications to the original source – helper functions from the MSS toolbox from Fossen and Perez (2004) (Repository: https://github.com/cybergalactic/MSS). 
 
